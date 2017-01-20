@@ -1,2 +1,2 @@
 # Hello-World
-Hello world program
+Learning Github. Let me make some changes and commit.
